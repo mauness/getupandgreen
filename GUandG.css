@@ -1,0 +1,49 @@
+body, h1, h2, h3, h4, h5, h6, ul, li, form 
+{
+    margin: 0px; 
+    padding: 0px;
+    
+}
+
+body
+{
+    background-color: #c8c3ba
+}
+
+p
+{
+    line-height: 25px;
+    font-family: Risque;
+    color: #fff;
+    font-weight: normal
+}
+
+p.GW
+{
+    text-align: center;
+    color: #04411e;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #fff
+}
+
+a:link 
+{
+    color: #000;
+    text-decoration:underline;
+    font-style: italic
+}
+    
+a:hover 
+{
+    color: #514c48;
+    text-decoration:underline;
+    font-style: italic
+}
+    
+
+a:visited 
+{
+    color: #076f33;
+    text-decoration:underline;
+    font-style: italic
+}
